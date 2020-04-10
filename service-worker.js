@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/andela-challenge4/precache-manifest.d45693db0ce23ebb47b82feea1dfc17b.js"
+  "/andela-challenge4/precache-manifest.dc1bf5f6ad154af1ce1e76d8d2f5cfc4.js"
 );
 
 self.addEventListener('message', (event) => {
