@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cd64b9c26e844a140210eee278dc323",
+    "revision": "ed383421cbd82d181415661818670f1a",
     "url": "/andela-challenge4/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/andela-challenge4/static/css/3.c6cf8631.chunk.css"
   },
   {
-    "revision": "6f7d9f0a1d4b7068925f",
+    "revision": "85f87042f847e2777217",
     "url": "/andela-challenge4/static/css/main.adae008f.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/andela-challenge4/static/js/3.d7d68f02.chunk.js"
   },
   {
-    "revision": "6f7d9f0a1d4b7068925f",
-    "url": "/andela-challenge4/static/js/main.74e3f431.chunk.js"
+    "revision": "85f87042f847e2777217",
+    "url": "/andela-challenge4/static/js/main.f9ea7b03.chunk.js"
   },
   {
     "revision": "cbde409205823926ecdf",

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/andela-challenge4/static/css/main.adae008f.chunk.css",
-    "main.js": "/andela-challenge4/static/js/main.74e3f431.chunk.js",
-    "main.js.map": "/andela-challenge4/static/js/main.74e3f431.chunk.js.map",
+    "main.js": "/andela-challenge4/static/js/main.f9ea7b03.chunk.js",
+    "main.js.map": "/andela-challenge4/static/js/main.f9ea7b03.chunk.js.map",
     "runtime-main.js": "/andela-challenge4/static/js/runtime-main.962b5ca5.js",
     "runtime-main.js.map": "/andela-challenge4/static/js/runtime-main.962b5ca5.js.map",
     "static/js/2.b471e68d.chunk.js": "/andela-challenge4/static/js/2.b471e68d.chunk.js",
@@ -11,7 +11,7 @@
     "static/js/3.d7d68f02.chunk.js": "/andela-challenge4/static/js/3.d7d68f02.chunk.js",
     "static/js/3.d7d68f02.chunk.js.map": "/andela-challenge4/static/js/3.d7d68f02.chunk.js.map",
     "index.html": "/andela-challenge4/index.html",
-    "precache-manifest.a05a87c46dcaf6865f23443c06d051ec.js": "/andela-challenge4/precache-manifest.a05a87c46dcaf6865f23443c06d051ec.js",
+    "precache-manifest.60db5e0ecfbd8baabfe9f735091443db.js": "/andela-challenge4/precache-manifest.60db5e0ecfbd8baabfe9f735091443db.js",
     "service-worker.js": "/andela-challenge4/service-worker.js",
     "static/css/3.c6cf8631.chunk.css.map": "/andela-challenge4/static/css/3.c6cf8631.chunk.css.map",
     "static/css/main.adae008f.chunk.css.map": "/andela-challenge4/static/css/main.adae008f.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.962b5ca5.js",
     "static/js/2.b471e68d.chunk.js",
     "static/css/main.adae008f.chunk.css",
-    "static/js/main.74e3f431.chunk.js"
+    "static/js/main.f9ea7b03.chunk.js"
   ]
 }
